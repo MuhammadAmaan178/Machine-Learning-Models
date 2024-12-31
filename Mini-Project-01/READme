@@ -1,1 +1,17 @@
+Linear Regression Model for Sales Prediction
+This project uses a Linear Regression model to predict sales based on advertising budgets for TV, Radio, and Newspaper.
 
+Dataset
+The dataset consists of four columns:
+TV: TV ad budget (in thousands of dollars)
+Radio: Radio ad budget (in thousands of dollars)
+Newspaper: Newspaper ad budget (in thousands of dollars)
+Sales: Sales (units sold)
+
+Model
+The model is built using Python and the scikit-learn library. It predicts sales based on the three advertising budgets.
+
+License
+This project is licensed under the MIT License.
+
+This version focuses on the essentials and keeps things short!
