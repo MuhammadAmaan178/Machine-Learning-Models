@@ -1,1 +1,11 @@
+Logistic Regression Model
+This repository contains a simple implementation of a Logistic Regression model for binary classification tasks.
 
+Requirements
+To run the model, you'll need to install the following libraries:
+scikit-learn
+pandas
+numpy
+
+License
+This project is licensed under the MIT License.
