@@ -1,0 +1,8 @@
+Decision Tree Classifier
+This repository contains an implementation of the Decision Tree Classifier, a popular machine learning algorithm used for classification tasks. The model splits data into subsets based on feature values, forming a tree-like structure to make predictions.
+
+Features:
+Train a Decision Tree classifier on labeled data
+Evaluate model performance using accuracy, precision, recall, etc.
+Visualize the decision tree structure
+Built using Python and popular libraries like scikit-learn
